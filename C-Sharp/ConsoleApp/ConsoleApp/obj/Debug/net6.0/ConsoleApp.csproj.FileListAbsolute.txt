@@ -13,3 +13,18 @@ C:\Users\cuadr\Desktop\Cursos Online\Aprendiendo CSharp\ConsoleApp\ConsoleApp\ob
 C:\Users\cuadr\Desktop\Cursos Online\Aprendiendo CSharp\ConsoleApp\ConsoleApp\obj\Debug\net6.0\ConsoleApp.pdb
 C:\Users\cuadr\Desktop\Cursos Online\Aprendiendo CSharp\ConsoleApp\ConsoleApp\obj\Debug\net6.0\ConsoleApp.genruntimeconfig.cache
 C:\Users\cuadr\Desktop\Cursos Online\Aprendiendo CSharp\ConsoleApp\ConsoleApp\obj\Debug\net6.0\ref\ConsoleApp.dll
+C:\Users\cuadr\Desktop\Cursos Online\Open-Bootcamp\C-Sharp\ConsoleApp\ConsoleApp\bin\Debug\net6.0\ConsoleApp.exe
+C:\Users\cuadr\Desktop\Cursos Online\Open-Bootcamp\C-Sharp\ConsoleApp\ConsoleApp\bin\Debug\net6.0\ConsoleApp.deps.json
+C:\Users\cuadr\Desktop\Cursos Online\Open-Bootcamp\C-Sharp\ConsoleApp\ConsoleApp\bin\Debug\net6.0\ConsoleApp.runtimeconfig.json
+C:\Users\cuadr\Desktop\Cursos Online\Open-Bootcamp\C-Sharp\ConsoleApp\ConsoleApp\bin\Debug\net6.0\ConsoleApp.dll
+C:\Users\cuadr\Desktop\Cursos Online\Open-Bootcamp\C-Sharp\ConsoleApp\ConsoleApp\bin\Debug\net6.0\ConsoleApp.pdb
+C:\Users\cuadr\Desktop\Cursos Online\Open-Bootcamp\C-Sharp\ConsoleApp\ConsoleApp\obj\Debug\net6.0\ConsoleApp.csproj.AssemblyReference.cache
+C:\Users\cuadr\Desktop\Cursos Online\Open-Bootcamp\C-Sharp\ConsoleApp\ConsoleApp\obj\Debug\net6.0\ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cuadr\Desktop\Cursos Online\Open-Bootcamp\C-Sharp\ConsoleApp\ConsoleApp\obj\Debug\net6.0\ConsoleApp.AssemblyInfoInputs.cache
+C:\Users\cuadr\Desktop\Cursos Online\Open-Bootcamp\C-Sharp\ConsoleApp\ConsoleApp\obj\Debug\net6.0\ConsoleApp.AssemblyInfo.cs
+C:\Users\cuadr\Desktop\Cursos Online\Open-Bootcamp\C-Sharp\ConsoleApp\ConsoleApp\obj\Debug\net6.0\ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\cuadr\Desktop\Cursos Online\Open-Bootcamp\C-Sharp\ConsoleApp\ConsoleApp\obj\Debug\net6.0\ConsoleApp.dll
+C:\Users\cuadr\Desktop\Cursos Online\Open-Bootcamp\C-Sharp\ConsoleApp\ConsoleApp\obj\Debug\net6.0\refint\ConsoleApp.dll
+C:\Users\cuadr\Desktop\Cursos Online\Open-Bootcamp\C-Sharp\ConsoleApp\ConsoleApp\obj\Debug\net6.0\ConsoleApp.pdb
+C:\Users\cuadr\Desktop\Cursos Online\Open-Bootcamp\C-Sharp\ConsoleApp\ConsoleApp\obj\Debug\net6.0\ConsoleApp.genruntimeconfig.cache
+C:\Users\cuadr\Desktop\Cursos Online\Open-Bootcamp\C-Sharp\ConsoleApp\ConsoleApp\obj\Debug\net6.0\ref\ConsoleApp.dll

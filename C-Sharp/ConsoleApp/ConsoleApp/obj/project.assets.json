@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\cuadr\\Desktop\\Cursos Online\\Aprendiendo CSharp\\ConsoleApp\\ConsoleApp\\ConsoleApp.csproj",
+      "projectUniqueName": "C:\\Users\\cuadr\\Desktop\\Cursos Online\\Open-Bootcamp\\C-Sharp\\ConsoleApp\\ConsoleApp\\ConsoleApp.csproj",
       "projectName": "ConsoleApp",
-      "projectPath": "C:\\Users\\cuadr\\Desktop\\Cursos Online\\Aprendiendo CSharp\\ConsoleApp\\ConsoleApp\\ConsoleApp.csproj",
+      "projectPath": "C:\\Users\\cuadr\\Desktop\\Cursos Online\\Open-Bootcamp\\C-Sharp\\ConsoleApp\\ConsoleApp\\ConsoleApp.csproj",
       "packagesPath": "C:\\Users\\cuadr\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\cuadr\\Desktop\\Cursos Online\\Aprendiendo CSharp\\ConsoleApp\\ConsoleApp\\obj\\",
+      "outputPath": "C:\\Users\\cuadr\\Desktop\\Cursos Online\\Open-Bootcamp\\C-Sharp\\ConsoleApp\\ConsoleApp\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
